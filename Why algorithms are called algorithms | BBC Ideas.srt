@@ -1,0 +1,237 @@
+1
+00:00:01,240 --> 00:00:03,760
+We think of an algorithm
+as something new,
+
+2
+00:00:03,840 --> 00:00:07,040
+but the term actually dates
+back about 900 years.
+
+3
+00:00:13,200 --> 00:00:15,360
+The word algorithm
+comes from the name
+
+4
+00:00:15,440 --> 00:00:20,440
+of a Persian mathematical genius,
+Muhammad ibn Musa al-Khwarizmi.
+
+5
+00:00:20,760 --> 00:00:26,400
+He was born around 780 AD in the
+region now known as Uzbekistan.
+
+6
+00:00:26,480 --> 00:00:30,160
+His name suggests he came
+from Khwarizm.
+
+7
+00:00:31,360 --> 00:00:36,200
+Known as al-Khwarizmi, he was
+director in the House of Wisdom,
+
+8
+00:00:36,280 --> 00:00:40,080
+an intellectual centre for scholars
+in 9th Century Baghdad.
+
+9
+00:00:40,360 --> 00:00:43,480
+He made innovative contributions
+to mathematics, astronomy,
+
+10
+00:00:43,560 --> 00:00:45,480
+geography and cartography,
+
+11
+00:00:45,960 --> 00:00:48,440
+and wrote an influential book called
+
+12
+00:00:48,520 --> 00:00:51,040
+Concerning the Hindu
+Art of Reckoning.
+
+13
+00:00:51,120 --> 00:00:54,040
+300 years later,
+the book was rediscovered
+
+14
+00:00:54,120 --> 00:00:56,000
+and translated into Latin.
+
+15
+00:00:56,080 --> 00:00:59,160
+It introduced Hindu-Arabic
+numerals to the West,
+
+16
+00:00:59,240 --> 00:01:02,400
+which eventually replaced
+the unwieldy Roman ones.
+
+17
+00:01:02,480 --> 00:01:06,200
+The Hindu-Arabic number system,
+along with the decimal point,
+
+18
+00:01:06,280 --> 00:01:10,800
+both described by al-Khwarizmi in his
+book, are the basis of the numbers
+
+19
+00:01:10,880 --> 00:01:13,000
+we use throughout the world today.
+
+20
+00:01:13,080 --> 00:01:17,080
+Al-Khwarizmi's name, when
+Latinised in the title of the book,
+
+21
+00:01:17,160 --> 00:01:19,600
+became algoritmi.
+
+22
+00:01:19,680 --> 00:01:22,800
+And this is the origin
+of the word algorithm.
+
+23
+00:01:23,600 --> 00:01:28,240
+We also have al-Khwarizmi
+to thank for the word algebra,
+
+24
+00:01:28,320 --> 00:01:30,320
+which comes from another
+of his works.
+
+25
+00:01:30,840 --> 00:01:34,560
+His books revolutionised
+mathematics in the West,
+
+26
+00:01:34,640 --> 00:01:36,680
+showing how complex problems
+
+27
+00:01:36,760 --> 00:01:40,320
+could be broken down
+into simpler parts and solved.
+
+28
+00:01:40,800 --> 00:01:45,760
+In medieval Latin, algorismus simply
+meant the decimal number system.
+
+29
+00:01:46,160 --> 00:01:50,040
+By the 13th Century, it had become
+an English word and was used,
+
+30
+00:01:50,120 --> 00:01:52,160
+for example, by Chaucer.
+
+31
+00:01:54,200 --> 00:01:56,560
+But it wasn't until
+the late 19th Century
+
+32
+00:01:56,640 --> 00:01:59,560
+that algorithm came to mean
+a set of step-by-step rules
+
+33
+00:01:59,640 --> 00:02:00,880
+for solving a problem.
+
+34
+00:02:02,840 --> 00:02:06,360
+In the early part of the
+20th Century, Alan Turing,
+
+35
+00:02:06,440 --> 00:02:10,640
+the British mathematician and
+computer scientist, worked out how,
+
+36
+00:02:10,720 --> 00:02:14,880
+in theory, a machine could
+follow algorithmic instructions
+
+37
+00:02:14,960 --> 00:02:17,320
+and solve complex mathematics.
+
+38
+00:02:18,240 --> 00:02:21,720
+This was the birth
+of the computer age.
+
+39
+00:02:22,000 --> 00:02:25,760
+During World War Two, he built
+a machine called the Bombe,
+
+40
+00:02:25,840 --> 00:02:29,000
+which used algorithms
+to crack the Enigma code.
+
+41
+00:02:29,640 --> 00:02:32,760
+Today algorithm is a fairly
+common term,
+
+42
+00:02:32,840 --> 00:02:36,200
+even if sometimes you're not
+exactly sure what an algorithm does.
+
+43
+00:02:36,760 --> 00:02:40,120
+Algorithms are everywhere now,
+helping us to get from A to B,
+
+44
+00:02:40,200 --> 00:02:43,400
+driving internet searches,
+making recommendations of things
+
+45
+00:02:43,480 --> 00:02:46,080
+for us to buy, watch or share.
+
+46
+00:02:46,480 --> 00:02:49,840
+And predicting how we vote
+or who we fall in love with.
+
+47
+00:02:50,600 --> 00:02:54,960
+This little word that
+originated in medieval Persia
+
+48
+00:02:55,040 --> 00:02:58,160
+is gradually transforming our lives.
+
+49
+00:03:01,000 --> 00:03:02,620
+Thanks for watching! :)
+
+50
+00:03:02,800 --> 00:03:07,640
+Don’t forget to subscribe and click the bell to receive notifications for new videos. See you again soon!
+
